@@ -1,5 +1,5 @@
 {
-  "name": "8bitstudio-ch/enable-acf-json",
+  "name": "8bitstudio-ch/enable-smtp",
   "type": "wordpress-muplugin",
   "license": "MIT",
   "description": "MU Plugin to handle WordPress SMTP with .env",
